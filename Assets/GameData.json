@@ -1,0 +1,259 @@
+{
+    "Levels": [
+        {
+            "LevelID": 1,
+            "IsCompleted": true,
+            "IsUnlocked": true
+        },
+        {
+            "LevelID": 2,
+            "IsCompleted": false,
+            "IsUnlocked": true
+        },
+        {
+            "LevelID": 3,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 4,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 5,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 6,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 7,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 8,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 9,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 10,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 11,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 12,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 13,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 14,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 15,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 16,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 17,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 18,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 19,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 20,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 21,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 22,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 23,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 24,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 25,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 26,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 27,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 28,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 29,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 30,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 31,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 32,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 33,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 34,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 35,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 36,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 37,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 38,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 39,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 40,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 41,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 42,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 43,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 44,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 45,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 46,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 47,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 48,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 49,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 50,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        },
+        {
+            "LevelID": 51,
+            "IsCompleted": false,
+            "IsUnlocked": false
+        }
+    ]
+}
