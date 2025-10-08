@@ -18,7 +18,7 @@ public class CompletedPanel : MonoBehaviour
         ResourceManager.Coins += _rewardCoins;
         if (ResourceManager.LevelSelected >= 4)
         {
-            AdsManager.Instance.ShowInters((complete) => { MainUIManager.LoadScene("Gameplay"); });
+            //AdsManager.Instance.ShowInters((complete) => { MainUIManager.LoadScene("Gameplay"); });
         }
         else
         {
@@ -29,10 +29,6 @@ public class CompletedPanel : MonoBehaviour
     public void OnClickAds()
     {
         AudioManager.PlaySound("Click");
-        AdsManager.Instance.ShowRewarded(complete =>
-        {
-            ResourceManager.Coins += _rewardCoins * 2;
-            MainUIManager.LoadScene("Gameplay");
-        });
+        
     }
 }

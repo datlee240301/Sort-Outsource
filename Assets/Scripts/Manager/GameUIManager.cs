@@ -114,11 +114,11 @@ public class GameUIManager : Singleton<GameUIManager>
         {
             if (_undoTimeUsed >= 2)
             {
-                AdsManager.Instance.ShowRewarded((complete) =>
-                {
-                    ResourceManager.Undo += 3;
-                    UpdateBoosterUI();
-                });
+                // AdsManager.Instance.ShowRewarded((complete) =>
+                // {
+                //     ResourceManager.Undo += 3;
+                //     UpdateBoosterUI();
+                // });
             }
             else
             {
@@ -153,11 +153,7 @@ public class GameUIManager : Singleton<GameUIManager>
         {
             if (_addBoxTimeUsed >= 1)
             {
-                AdsManager.Instance.ShowRewarded((complete) =>
-                {
-                    ResourceManager.AddBox += 2;
-                    UpdateBoosterUI();
-                });
+                
             }
             else
             {

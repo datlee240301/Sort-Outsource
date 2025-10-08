@@ -7494,6 +7494,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 912127650}
     m_Modifications:
+    - target: {fileID: 656679830564589358, guid: fc1bb256c2b1acf4cac770d5adabeb04, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919984782586355327, guid: fc1bb256c2b1acf4cac770d5adabeb04, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1090292303656105591, guid: fc1bb256c2b1acf4cac770d5adabeb04, type: 3}
       propertyPath: m_Name
       value: ShopPanel

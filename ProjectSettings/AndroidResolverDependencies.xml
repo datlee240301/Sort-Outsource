@@ -1,7 +1,6 @@
 <dependencies>
   <packages>
     <package>com.applovin.mediation:bytedance-adapter:7.3.0.3.0</package>
-    <package>com.applovin:applovin-sdk:13.2.0</package>
   </packages>
   <files />
   <settings>

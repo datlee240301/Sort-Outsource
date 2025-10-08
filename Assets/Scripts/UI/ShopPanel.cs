@@ -62,10 +62,6 @@ public class ShopPanel : MonoBehaviour
     public void WatchAdForCoins()
     {
         AudioManager.PlaySound("Click");
-        AdsManager.Instance.ShowRewarded(complete =>
-        {
-            ResourceManager.Coins += 50;
-            GameEventManager.UpdateCoins?.Invoke();
-        });
+        
     }
 }

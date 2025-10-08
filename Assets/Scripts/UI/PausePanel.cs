@@ -28,11 +28,7 @@ public class PausePanel : MonoBehaviour
         AudioManager.PlaySound("Click");
         if (ResourceManager.LevelSelected >= 4)
         {
-            AdsManager.Instance.ShowInters((complete) =>
-            {
-                MainUIManager.Instance.PopupOpened = false;
-                MainUIManager.LoadScene("Gameplay");
-            });
+            
         }
         else
         {
