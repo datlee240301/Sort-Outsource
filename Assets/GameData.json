@@ -7,18 +7,18 @@
         },
         {
             "LevelID": 2,
-            "IsCompleted": false,
+            "IsCompleted": true,
             "IsUnlocked": true
         },
         {
             "LevelID": 3,
-            "IsCompleted": false,
-            "IsUnlocked": false
+            "IsCompleted": true,
+            "IsUnlocked": true
         },
         {
             "LevelID": 4,
             "IsCompleted": false,
-            "IsUnlocked": false
+            "IsUnlocked": true
         },
         {
             "LevelID": 5,

@@ -9,16 +9,15 @@ using UnityEngine.UI;
 
 public static class MyPurchaseID
 {
-    public const string RemoveAds = "com.diamondsort.removeads";
-    public const string Pack1 = "com.diamondsort.pack1";
-    public const string Pack2 = "com.diamondsort.pack2";
-    public const string Pack3 = "com.diamondsort.pack3";
-    public const string Pack4 = "com.diamondsort.pack4";
-    public const string Pack5 = "com.diamondsort.pack5";
-    public const string Pack6 = "com.diamondsort.pack6";
-    public const string Pack7 = "com.diamondsort.pack7";
-    public const string Pack8 = "com.diamondsort.pack8";
-    public const string Pack9 = "com.diamondsort.pack9";
+    public const string Pack1 = "com.diamondsort.gempack1";
+    public const string Pack2 = "com.diamondsort.gempack2";
+    public const string Pack3 = "com.diamondsort.gempack3";
+    public const string Pack4 = "com.diamondsort.gempack4";
+    public const string Pack5 = "com.diamondsort.gempack5";
+    public const string Pack6 = "com.diamondsort.gempack6";
+    public const string Pack7 = "com.diamondsort.gempack7";
+    public const string Pack8 = "com.diamondsort.gempack8";
+    public const string Pack9 = "com.diamondsort.gempack9";
 }
 
 public class IAPProduct : MonoBehaviour
@@ -88,9 +87,9 @@ public class IAPProduct : MonoBehaviour
     {
         switch (_purchaseID)
         {
-            case MyPurchaseID.RemoveAds:
-                RemoveAdsPack();
-                break;
+            // case MyPurchaseID.RemoveAds:
+            //     RemoveAdsPack();
+            //     break;
             case MyPurchaseID.Pack1:
                 AddCoinsPack(300);
                 break;

@@ -18,7 +18,7 @@ public class CompletedPanel : MonoBehaviour
         ResourceManager.Coins += _rewardCoins;
         if (ResourceManager.LevelSelected >= 4)
         {
-            //AdsManager.Instance.ShowInters((complete) => { MainUIManager.LoadScene("Gameplay"); });
+            MainUIManager.LoadScene("Gameplay"); ;
         }
         else
         {

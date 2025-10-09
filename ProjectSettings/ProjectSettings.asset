@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Diamond Sort Puzzle
+  productName: Diamond Sort
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -163,7 +163,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.diamonds.sort.puzzle.match
+    Android: com.sort.diamond.puzzle.match3
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
     Standalone: 0
@@ -268,8 +268,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/Dat Lee/Videos/Captures/File/diamonsort2.jks.keystore
+  AndroidKeyaliasName: diamonsort2
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
@@ -292,7 +292,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 6f623061a9bfa1c4ca231205ecc611cc, type: 3}
+      m_Icon: {fileID: 2800000, guid: 1d2ac280585daf440aa3e443585127ad, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -927,11 +927,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 97eef4f2-63ca-4a93-9a51-303c17ec0bc6
+  cloudProjectId: 2cad0a03-421e-41a5-b9ca-bab9e167409d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Sort
-  organizationId: wingoodev
+  projectName: Diamond Sort
+  organizationId: datlee01
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
